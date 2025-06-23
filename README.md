@@ -1,6 +1,6 @@
 <h1 style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="img/logo.png" alt="Genomic Counseling AI AILogo" style="height: 100px;">
   <span>Genomic Counseling AI</span>
-  <img src="img/logo.png" alt="Genomic Counseling AI AILogo" style="height: 60px;">
 </h1>
 
 ## Setup Instructions
