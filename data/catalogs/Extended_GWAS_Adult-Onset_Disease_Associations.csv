@@ -1,0 +1,25 @@
+Disease/Trait,Gene,SNP,Risk Allele,Effect
+Alzheimer’s Disease,APOE,rs429358,C,ε4 increases risk up to 12×
+Alzheimer’s Disease,APOE,rs7412,C,ε4 increases risk up to 12×
+Coronary Artery Disease,CDKN2A/CDKN2B (9p21),rs1333049,C,~30% increased risk
+Type 1 Diabetes,"INS, HLA-DRB1, HLA-DQB1",rs689,A,Increased autoimmunity risk
+Age-Related Macular Degeneration,CFH,rs1061170,C,2–3× increased risk
+Lactose Tolerance,LCT,rs4988235,T,Lactase persistence
+Schizophrenia,C4A (MHC region),rs13194504,C,C4A expression ↑ = risk ↑
+Type 2 Diabetes,TCF7L2,rs7903146,T,1.4× increased risk
+Prostate Cancer,8q24,rs6983267,G,Modest risk increase
+Obesity,FTO,rs9939609,A,Increased BMI and obesity risk
+Crohn’s Disease,IL23R,rs11209026,G,Increased inflammation and autoimmunity
+Ulcerative Colitis,HLA-DRB1,rs9269955,A,Increased risk of chronic colitis
+Rheumatoid Arthritis,PTPN22,rs2476601,A,"Autoimmune activation, joint inflammation"
+Multiple Sclerosis,HLA-DRB1,rs3135388,A,Increased risk of demyelination
+Systemic Lupus Erythematosus,IRF5,rs2004640,T,Higher interferon pathway activation
+Psoriasis,IL12B,rs3212227,C,Inflammatory skin disease susceptibility
+Colorectal Cancer,SMAD7,rs4939827,G,Disrupted TGF-beta signaling
+Atrial Fibrillation,PITX2,rs2200733,T,Altered cardiac electrical activity
+Migraine,TRPM8,rs10166942,C,Increased susceptibility to migraine with aura
+Gallstones,ABCG8,rs11887534,G,"Cholesterol transport, gallstone formation"
+Venous Thromboembolism,F5 (Factor V Leiden),rs6025,A,Increased clotting risk
+Celiac Disease,HLA-DQA1/DQB1,rs2187668,T,Increased immune response to gluten
+Graves' Disease,TSHR,rs2268458,C,Thyroid-stimulating autoantibody activation
+Primary Biliary Cholangitis,IL12A,rs6441286,A,Autoimmune liver inflammation
