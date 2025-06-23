@@ -1,3 +1,7 @@
+# Genomic Counseling AI
+
+![Logo](img/logo.png)
+
 ## Setup Instructions
 
 ### Download GWAS Catalog Data
